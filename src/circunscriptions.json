@@ -1,0 +1,522 @@
+[
+  {
+    "name": "Almer\u00eda",
+    "circunscriptionID": 4,
+    "electionID": 1,
+    "voters": 324405,
+    "valid_votes": 321242,
+    "blank_votes": 2464,
+    "invalid_votes": 3163,
+    "votes_cand": 318778
+  },
+  {
+    "name": "C\u00e1diz",
+    "circunscriptionID": 11,
+    "electionID": 1,
+    "voters": 644801,
+    "valid_votes": 637098,
+    "blank_votes": 7103,
+    "invalid_votes": 7703,
+    "votes_cand": 629995
+  },
+  {
+    "name": "C\u00f3rdoba",
+    "circunscriptionID": 14,
+    "electionID": 1,
+    "voters": 455564,
+    "valid_votes": 448602,
+    "blank_votes": 4348,
+    "invalid_votes": 6962,
+    "votes_cand": 444254
+  },
+  {
+    "name": "Granada",
+    "circunscriptionID": 18,
+    "electionID": 1,
+    "voters": 509486,
+    "valid_votes": 502845,
+    "blank_votes": 4057,
+    "invalid_votes": 6641,
+    "votes_cand": 498788
+  },
+  {
+    "name": "Huelva",
+    "circunscriptionID": 21,
+    "electionID": 1,
+    "voters": 260861,
+    "valid_votes": 256804,
+    "blank_votes": 2410,
+    "invalid_votes": 4057,
+    "votes_cand": 254394
+  },
+  {
+    "name": "Ja\u00e9n",
+    "circunscriptionID": 23,
+    "electionID": 1,
+    "voters": 373657,
+    "valid_votes": 368731,
+    "blank_votes": 2497,
+    "invalid_votes": 4926,
+    "votes_cand": 366234
+  },
+  {
+    "name": "M\u00e1laga",
+    "circunscriptionID": 29,
+    "electionID": 1,
+    "voters": 798557,
+    "valid_votes": 788338,
+    "blank_votes": 7509,
+    "invalid_votes": 10219,
+    "votes_cand": 780829
+  },
+  {
+    "name": "Sevilla",
+    "circunscriptionID": 41,
+    "electionID": 1,
+    "voters": 1075133,
+    "valid_votes": 1059358,
+    "blank_votes": 10951,
+    "invalid_votes": 15775,
+    "votes_cand": 1048407
+  },
+  {
+    "name": "Huesca",
+    "circunscriptionID": 22,
+    "electionID": 1,
+    "voters": 121148,
+    "valid_votes": 119895,
+    "blank_votes": 1217,
+    "invalid_votes": 1253,
+    "votes_cand": 118678
+  },
+  {
+    "name": "Teruel",
+    "circunscriptionID": 44,
+    "electionID": 1,
+    "voters": 76561,
+    "valid_votes": 75913,
+    "blank_votes": 410,
+    "invalid_votes": 648,
+    "votes_cand": 75503
+  },
+  {
+    "name": "Zaragoza",
+    "circunscriptionID": 50,
+    "electionID": 1,
+    "voters": 523410,
+    "valid_votes": 518705,
+    "blank_votes": 4693,
+    "invalid_votes": 4705,
+    "votes_cand": 514012
+  },
+  {
+    "name": "Asturias",
+    "circunscriptionID": 33,
+    "electionID": 1,
+    "voters": 603183,
+    "valid_votes": 597032,
+    "blank_votes": 6079,
+    "invalid_votes": 6151,
+    "votes_cand": 590953
+  },
+  {
+    "name": "Illes Balears",
+    "circunscriptionID": 7,
+    "electionID": 1,
+    "voters": 508233,
+    "valid_votes": 503280,
+    "blank_votes": 4704,
+    "invalid_votes": 4953,
+    "votes_cand": 498576
+  },
+  {
+    "name": "Las Palmas",
+    "circunscriptionID": 35,
+    "electionID": 1,
+    "voters": 534912,
+    "valid_votes": 529337,
+    "blank_votes": 3062,
+    "invalid_votes": 5575,
+    "votes_cand": 526275
+  },
+  {
+    "name": "Santa Cruz de Tenerife",
+    "circunscriptionID": 38,
+    "electionID": 1,
+    "voters": 500777,
+    "valid_votes": 494373,
+    "blank_votes": 5088,
+    "invalid_votes": 6404,
+    "votes_cand": 489285
+  },
+  {
+    "name": "Cantabria",
+    "circunscriptionID": 39,
+    "electionID": 1,
+    "voters": 355145,
+    "valid_votes": 350150,
+    "blank_votes": 3262,
+    "invalid_votes": 4995,
+    "votes_cand": 346888
+  },
+  {
+    "name": "Albacete",
+    "circunscriptionID": 2,
+    "electionID": 1,
+    "voters": 223917,
+    "valid_votes": 221191,
+    "blank_votes": 1834,
+    "invalid_votes": 2726,
+    "votes_cand": 219357
+  },
+  {
+    "name": "Ciudad Real",
+    "circunscriptionID": 13,
+    "electionID": 1,
+    "voters": 286895,
+    "valid_votes": 282979,
+    "blank_votes": 2353,
+    "invalid_votes": 3916,
+    "votes_cand": 280626
+  },
+  {
+    "name": "Cuenca",
+    "circunscriptionID": 16,
+    "electionID": 1,
+    "voters": 115280,
+    "valid_votes": 113808,
+    "blank_votes": 969,
+    "invalid_votes": 1472,
+    "votes_cand": 112839
+  },
+  {
+    "name": "Guadalajara",
+    "circunscriptionID": 19,
+    "electionID": 1,
+    "voters": 142744,
+    "valid_votes": 140913,
+    "blank_votes": 1143,
+    "invalid_votes": 1831,
+    "votes_cand": 139770
+  },
+  {
+    "name": "Toledo",
+    "circunscriptionID": 45,
+    "electionID": 1,
+    "voters": 392988,
+    "valid_votes": 387200,
+    "blank_votes": 2611,
+    "invalid_votes": 5788,
+    "votes_cand": 384589
+  },
+  {
+    "name": "\u00c1vila",
+    "circunscriptionID": 5,
+    "electionID": 1,
+    "voters": 99120,
+    "valid_votes": 97956,
+    "blank_votes": 632,
+    "invalid_votes": 1164,
+    "votes_cand": 97324
+  },
+  {
+    "name": "Burgos",
+    "circunscriptionID": 9,
+    "electionID": 1,
+    "voters": 204886,
+    "valid_votes": 202569,
+    "blank_votes": 1851,
+    "invalid_votes": 2317,
+    "votes_cand": 200718
+  },
+  {
+    "name": "Le\u00f3n",
+    "circunscriptionID": 24,
+    "electionID": 1,
+    "voters": 277726,
+    "valid_votes": 275240,
+    "blank_votes": 1577,
+    "invalid_votes": 2486,
+    "votes_cand": 273663
+  },
+  {
+    "name": "Palencia",
+    "circunscriptionID": 34,
+    "electionID": 1,
+    "voters": 98079,
+    "valid_votes": 96962,
+    "blank_votes": 833,
+    "invalid_votes": 1117,
+    "votes_cand": 96129
+  },
+  {
+    "name": "Salamanca",
+    "circunscriptionID": 37,
+    "electionID": 1,
+    "voters": 201419,
+    "valid_votes": 199110,
+    "blank_votes": 1649,
+    "invalid_votes": 2309,
+    "votes_cand": 197461
+  },
+  {
+    "name": "Segovia",
+    "circunscriptionID": 40,
+    "electionID": 1,
+    "voters": 89945,
+    "valid_votes": 88613,
+    "blank_votes": 875,
+    "invalid_votes": 1332,
+    "votes_cand": 87738
+  },
+  {
+    "name": "Soria",
+    "circunscriptionID": 42,
+    "electionID": 1,
+    "voters": 51157,
+    "valid_votes": 50769,
+    "blank_votes": 285,
+    "invalid_votes": 388,
+    "votes_cand": 50484
+  },
+  {
+    "name": "Valladolid",
+    "circunscriptionID": 47,
+    "electionID": 1,
+    "voters": 319312,
+    "valid_votes": 316309,
+    "blank_votes": 2419,
+    "invalid_votes": 3003,
+    "votes_cand": 313890
+  },
+  {
+    "name": "Zamora",
+    "circunscriptionID": 49,
+    "electionID": 1,
+    "voters": 104671,
+    "valid_votes": 103410,
+    "blank_votes": 922,
+    "invalid_votes": 1261,
+    "votes_cand": 102488
+  },
+  {
+    "name": "Barcelona",
+    "circunscriptionID": 8,
+    "electionID": 1,
+    "voters": 2688720,
+    "valid_votes": 2667478,
+    "blank_votes": 21059,
+    "invalid_votes": 21242,
+    "votes_cand": 2646419
+  },
+  {
+    "name": "Girona",
+    "circunscriptionID": 17,
+    "electionID": 1,
+    "voters": 327159,
+    "valid_votes": 322988,
+    "blank_votes": 2981,
+    "invalid_votes": 4171,
+    "votes_cand": 320007
+  },
+  {
+    "name": "Lleida",
+    "circunscriptionID": 25,
+    "electionID": 1,
+    "voters": 186929,
+    "valid_votes": 184539,
+    "blank_votes": 2059,
+    "invalid_votes": 2390,
+    "votes_cand": 182480
+  },
+  {
+    "name": "Tarragona",
+    "circunscriptionID": 43,
+    "electionID": 1,
+    "voters": 372426,
+    "valid_votes": 368024,
+    "blank_votes": 3168,
+    "invalid_votes": 4402,
+    "votes_cand": 364856
+  },
+  {
+    "name": "Badajoz",
+    "circunscriptionID": 6,
+    "electionID": 1,
+    "voters": 398233,
+    "valid_votes": 391461,
+    "blank_votes": 3225,
+    "invalid_votes": 6772,
+    "votes_cand": 388236
+  },
+  {
+    "name": "C\u00e1ceres",
+    "circunscriptionID": 10,
+    "electionID": 1,
+    "voters": 239747,
+    "valid_votes": 235851,
+    "blank_votes": 1721,
+    "invalid_votes": 3896,
+    "votes_cand": 234130
+  },
+  {
+    "name": "A Coru\u00f1a",
+    "circunscriptionID": 15,
+    "electionID": 1,
+    "voters": 683187,
+    "valid_votes": 677702,
+    "blank_votes": 5197,
+    "invalid_votes": 5485,
+    "votes_cand": 672505
+  },
+  {
+    "name": "Lugo",
+    "circunscriptionID": 27,
+    "electionID": 1,
+    "voters": 200709,
+    "valid_votes": 198566,
+    "blank_votes": 1251,
+    "invalid_votes": 2143,
+    "votes_cand": 197315
+  },
+  {
+    "name": "Ourense",
+    "circunscriptionID": 32,
+    "electionID": 1,
+    "voters": 188065,
+    "valid_votes": 186271,
+    "blank_votes": 1109,
+    "invalid_votes": 1794,
+    "votes_cand": 185162
+  },
+  {
+    "name": "Pontevedra",
+    "circunscriptionID": 36,
+    "electionID": 1,
+    "voters": 579125,
+    "valid_votes": 573124,
+    "blank_votes": 3865,
+    "invalid_votes": 6001,
+    "votes_cand": 569259
+  },
+  {
+    "name": "Madrid",
+    "circunscriptionID": 28,
+    "electionID": 1,
+    "voters": 3639500,
+    "valid_votes": 3608673,
+    "blank_votes": 28960,
+    "invalid_votes": 30827,
+    "votes_cand": 3579713
+  },
+  {
+    "name": "Navarra",
+    "circunscriptionID": 31,
+    "electionID": 1,
+    "voters": 345095,
+    "valid_votes": 341844,
+    "blank_votes": 2890,
+    "invalid_votes": 3251,
+    "votes_cand": 338954
+  },
+  {
+    "name": "Araba/\u00c1lava",
+    "circunscriptionID": 1,
+    "electionID": 1,
+    "voters": 170538,
+    "valid_votes": 169107,
+    "blank_votes": 722,
+    "invalid_votes": 1431,
+    "votes_cand": 168385
+  },
+  {
+    "name": "Gipuzkoa",
+    "circunscriptionID": 20,
+    "electionID": 1,
+    "voters": 378965,
+    "valid_votes": 376621,
+    "blank_votes": 2005,
+    "invalid_votes": 2344,
+    "votes_cand": 374616
+  },
+  {
+    "name": "Bizkaia",
+    "circunscriptionID": 48,
+    "electionID": 1,
+    "voters": 614944,
+    "valid_votes": 609693,
+    "blank_votes": 3391,
+    "invalid_votes": 5251,
+    "votes_cand": 606302
+  },
+  {
+    "name": "Murcia",
+    "circunscriptionID": 30,
+    "electionID": 1,
+    "voters": 755255,
+    "valid_votes": 747797,
+    "blank_votes": 5034,
+    "invalid_votes": 7458,
+    "votes_cand": 742763
+  },
+  {
+    "name": "La Rioja",
+    "circunscriptionID": 26,
+    "electionID": 1,
+    "voters": 176945,
+    "valid_votes": 174663,
+    "blank_votes": 1608,
+    "invalid_votes": 2282,
+    "votes_cand": 173055
+  },
+  {
+    "name": "Alacant/Alicante",
+    "circunscriptionID": 3,
+    "electionID": 1,
+    "voters": 908842,
+    "valid_votes": 899192,
+    "blank_votes": 6575,
+    "invalid_votes": 9650,
+    "votes_cand": 892617
+  },
+  {
+    "name": "Castell\u00f3/Castell\u00f3n",
+    "circunscriptionID": 12,
+    "electionID": 1,
+    "voters": 311581,
+    "valid_votes": 307930,
+    "blank_votes": 2655,
+    "invalid_votes": 3651,
+    "votes_cand": 305275
+  },
+  {
+    "name": "Val\u00e8ncia/Valencia",
+    "circunscriptionID": 46,
+    "electionID": 1,
+    "voters": 1451187,
+    "valid_votes": 1437161,
+    "blank_votes": 10810,
+    "invalid_votes": 14026,
+    "votes_cand": 1426351
+  },
+  {
+    "name": "Ceuta",
+    "circunscriptionID": 51,
+    "electionID": 1,
+    "voters": 33674,
+    "valid_votes": 33321,
+    "blank_votes": 328,
+    "invalid_votes": 353,
+    "votes_cand": 32993
+  },
+  {
+    "name": "Melilla",
+    "circunscriptionID": 52,
+    "electionID": 1,
+    "voters": 27649,
+    "valid_votes": 27349,
+    "blank_votes": 253,
+    "invalid_votes": 300,
+    "votes_cand": 27096
+  }
+]

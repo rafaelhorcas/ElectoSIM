@@ -1,0 +1,3302 @@
+[
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 131524,
+    "circunscriptionID": 4
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 93282,
+    "circunscriptionID": 4
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 68364,
+    "circunscriptionID": 4
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 21485,
+    "circunscriptionID": 4
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 1962,
+    "circunscriptionID": 4
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 500,
+    "circunscriptionID": 4
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 206,
+    "circunscriptionID": 4
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 371,
+    "circunscriptionID": 4
+  },
+  {
+    "name": "ALMERIENSES - REGIONALISTAS PRO ALMER\u00cdA",
+    "acronym": "ALM",
+    "votes": 874,
+    "circunscriptionID": 4
+  },
+  {
+    "name": "LIBRES",
+    "acronym": "LB",
+    "votes": 210,
+    "circunscriptionID": 4
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 221703,
+    "circunscriptionID": 11
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 211200,
+    "circunscriptionID": 11
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 96720,
+    "circunscriptionID": 11
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 82115,
+    "circunscriptionID": 11
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 5937,
+    "circunscriptionID": 11
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 1225,
+    "circunscriptionID": 11
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 486,
+    "circunscriptionID": 11
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 673,
+    "circunscriptionID": 11
+  },
+  {
+    "name": "ADELANTE ANDALUC\u00cdA",
+    "acronym": "ADELANTE ANDALUC\u00cdA",
+    "votes": 9191,
+    "circunscriptionID": 11
+  },
+  {
+    "name": "CAMINANDO JUNTOS",
+    "acronym": "CJ",
+    "votes": 745,
+    "circunscriptionID": 11
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 169976,
+    "circunscriptionID": 14
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 144080,
+    "circunscriptionID": 14
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 62526,
+    "circunscriptionID": 14
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 61594,
+    "circunscriptionID": 14
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 2699,
+    "circunscriptionID": 14
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 701,
+    "circunscriptionID": 14
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 392,
+    "circunscriptionID": 14
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 598,
+    "circunscriptionID": 14
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 746,
+    "circunscriptionID": 14
+  },
+  {
+    "name": "ESCA\u00d1OS EN BLANCO PARA DEJAR ESCA\u00d1OS VAC\u00cdOS",
+    "acronym": "ESCA\u00d1OS EN BLANCO",
+    "votes": 942,
+    "circunscriptionID": 14
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 185996,
+    "circunscriptionID": 18
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 165862,
+    "circunscriptionID": 18
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 81080,
+    "circunscriptionID": 18
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 58567,
+    "circunscriptionID": 18
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 3143,
+    "circunscriptionID": 18
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 658,
+    "circunscriptionID": 18
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 343,
+    "circunscriptionID": 18
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 765,
+    "circunscriptionID": 18
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 695,
+    "circunscriptionID": 18
+  },
+  {
+    "name": "CAMINANDO JUNTOS",
+    "acronym": "CJ",
+    "votes": 461,
+    "circunscriptionID": 18
+  },
+  {
+    "name": "JUNTOS POR GRANADA",
+    "acronym": "JxG",
+    "votes": 1218,
+    "circunscriptionID": 18
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 93565,
+    "circunscriptionID": 21
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 92326,
+    "circunscriptionID": 21
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 37572,
+    "circunscriptionID": 21
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 26752,
+    "circunscriptionID": 21
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 1663,
+    "circunscriptionID": 21
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 217,
+    "circunscriptionID": 21
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 368,
+    "circunscriptionID": 21
+  },
+  {
+    "name": "POR HUELVA",
+    "acronym": "XH",
+    "votes": 1931,
+    "circunscriptionID": 21
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 137617,
+    "circunscriptionID": 23
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 133819,
+    "circunscriptionID": 23
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 54400,
+    "circunscriptionID": 23
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 29461,
+    "circunscriptionID": 23
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 1671,
+    "circunscriptionID": 23
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 410,
+    "circunscriptionID": 23
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 203,
+    "circunscriptionID": 23
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 360,
+    "circunscriptionID": 23
+  },
+  {
+    "name": "JA\u00c9N MERECE M\u00c1S",
+    "acronym": "JM+",
+    "votes": 8293,
+    "circunscriptionID": 23
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 302000,
+    "circunscriptionID": 29
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 239172,
+    "circunscriptionID": 29
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 129758,
+    "circunscriptionID": 29
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 96652,
+    "circunscriptionID": 29
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 8487,
+    "circunscriptionID": 29
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 1662,
+    "circunscriptionID": 29
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 888,
+    "circunscriptionID": 29
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 1519,
+    "circunscriptionID": 29
+  },
+  {
+    "name": "CAMINANDO JUNTOS",
+    "acronym": "CJ",
+    "votes": 691,
+    "circunscriptionID": 29
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 353663,
+    "circunscriptionID": 41
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 387760,
+    "circunscriptionID": 41
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 141087,
+    "circunscriptionID": 41
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 148745,
+    "circunscriptionID": 41
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 9288,
+    "circunscriptionID": 41
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 1950,
+    "circunscriptionID": 41
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 1034,
+    "circunscriptionID": 41
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 1765,
+    "circunscriptionID": 41
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 1522,
+    "circunscriptionID": 41
+  },
+  {
+    "name": "CAMINANDO JUNTOS",
+    "acronym": "CJ",
+    "votes": 912,
+    "circunscriptionID": 41
+  },
+  {
+    "name": "FALANGE ESPA\u00d1OLA DE LAS J.O.N.S.",
+    "acronym": "FE de las JONS",
+    "votes": 681,
+    "circunscriptionID": 41
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 45783,
+    "circunscriptionID": 22
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 40307,
+    "circunscriptionID": 22
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 15155,
+    "circunscriptionID": 22
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 13774,
+    "circunscriptionID": 22
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 498,
+    "circunscriptionID": 22
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 258,
+    "circunscriptionID": 22
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 64,
+    "circunscriptionID": 22
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 114,
+    "circunscriptionID": 22
+  },
+  {
+    "name": "ARAG\u00d3N EXISTE - COALICI\u00d3N EXISTE",
+    "acronym": "EXISTE",
+    "votes": 1312,
+    "circunscriptionID": 22
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 137,
+    "circunscriptionID": 22
+  },
+  {
+    "name": "ESCA\u00d1OS EN BLANCO PARA DEJAR ESCA\u00d1OS VAC\u00cdOS",
+    "acronym": "ESCA\u00d1OS EN BLANCO",
+    "votes": 475,
+    "circunscriptionID": 22
+  },
+  {
+    "name": "PARTIDO ARAGON\u00c9S",
+    "acronym": "PAR",
+    "votes": 717,
+    "circunscriptionID": 22
+  },
+  {
+    "name": "FEDERACI\u00d3N DE LOS INDEPENDIENTES DE ARAG\u00d3N",
+    "acronym": "F.I.A.",
+    "votes": 84,
+    "circunscriptionID": 22
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 26586,
+    "circunscriptionID": 44
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 22226,
+    "circunscriptionID": 44
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 9932,
+    "circunscriptionID": 44
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 4126,
+    "circunscriptionID": 44
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 172,
+    "circunscriptionID": 44
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 94,
+    "circunscriptionID": 44
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 49,
+    "circunscriptionID": 44
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 36,
+    "circunscriptionID": 44
+  },
+  {
+    "name": "ARAG\u00d3N EXISTE - COALICI\u00d3N EXISTE",
+    "acronym": "EXISTE",
+    "votes": 11348,
+    "circunscriptionID": 44
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 60,
+    "circunscriptionID": 44
+  },
+  {
+    "name": "ESCA\u00d1OS EN BLANCO PARA DEJAR ESCA\u00d1OS VAC\u00cdOS",
+    "acronym": "ESCA\u00d1OS EN BLANCO",
+    "votes": 135,
+    "circunscriptionID": 44
+  },
+  {
+    "name": "PARTIDO ARAGON\u00c9S",
+    "acronym": "PAR",
+    "votes": 711,
+    "circunscriptionID": 44
+  },
+  {
+    "name": "FEDERACI\u00d3N DE LOS INDEPENDIENTES DE ARAG\u00d3N",
+    "acronym": "F.I.A.",
+    "votes": 28,
+    "circunscriptionID": 44
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 186776,
+    "circunscriptionID": 50
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 159858,
+    "circunscriptionID": 50
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 79376,
+    "circunscriptionID": 50
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 69925,
+    "circunscriptionID": 50
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 2428,
+    "circunscriptionID": 50
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 1026,
+    "circunscriptionID": 50
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 306,
+    "circunscriptionID": 50
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 419,
+    "circunscriptionID": 50
+  },
+  {
+    "name": "ARAG\u00d3N EXISTE - COALICI\u00d3N EXISTE",
+    "acronym": "EXISTE",
+    "votes": 7780,
+    "circunscriptionID": 50
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 561,
+    "circunscriptionID": 50
+  },
+  {
+    "name": "ESCA\u00d1OS EN BLANCO PARA DEJAR ESCA\u00d1OS VAC\u00cdOS",
+    "acronym": "ESCA\u00d1OS EN BLANCO",
+    "votes": 2146,
+    "circunscriptionID": 50
+  },
+  {
+    "name": "FALANGE ESPA\u00d1OLA DE LAS J.O.N.S.",
+    "acronym": "FE de las JONS",
+    "votes": 272,
+    "circunscriptionID": 50
+  },
+  {
+    "name": "PARTIDO ARAGON\u00c9S",
+    "acronym": "PAR",
+    "votes": 2745,
+    "circunscriptionID": 50
+  },
+  {
+    "name": "FEDERACI\u00d3N DE LOS INDEPENDIENTES DE ARAG\u00d3N",
+    "acronym": "F.I.A.",
+    "votes": 394,
+    "circunscriptionID": 50
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 212816,
+    "circunscriptionID": 33
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 205049,
+    "circunscriptionID": 33
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 74571,
+    "circunscriptionID": 33
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 88630,
+    "circunscriptionID": 33
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 3167,
+    "circunscriptionID": 33
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 1176,
+    "circunscriptionID": 33
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 590,
+    "circunscriptionID": 33
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 773,
+    "circunscriptionID": 33
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 1598,
+    "circunscriptionID": 33
+  },
+  {
+    "name": "ASTURIAS EXISTE-ESPA\u00d1A VACIADA",
+    "acronym": "ASTURIAS EXISTE EV",
+    "votes": 2314,
+    "circunscriptionID": 33
+  },
+  {
+    "name": "PARTIDO UNIONISTA ESTADO DE ESPA\u00d1A",
+    "acronym": "PUEDE",
+    "votes": 269,
+    "circunscriptionID": 33
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 179303,
+    "circunscriptionID": 7
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 151786,
+    "circunscriptionID": 7
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 76547,
+    "circunscriptionID": 7
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 83487,
+    "circunscriptionID": 7
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 4969,
+    "circunscriptionID": 7
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 1039,
+    "circunscriptionID": 7
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 726,
+    "circunscriptionID": 7
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 719,
+    "circunscriptionID": 7
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 136857,
+    "circunscriptionID": 35
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 175671,
+    "circunscriptionID": 35
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 77343,
+    "circunscriptionID": 35
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 54369,
+    "circunscriptionID": 35
+  },
+  {
+    "name": "COALICI\u00d3N CANARIA",
+    "acronym": "CCa",
+    "votes": 33558,
+    "circunscriptionID": 35
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 3570,
+    "circunscriptionID": 35
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 635,
+    "circunscriptionID": 35
+  },
+  {
+    "name": "NUEVA CANARIAS - BLOQUE CANARISTA",
+    "acronym": "NC-bc",
+    "votes": 42430,
+    "circunscriptionID": 35
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 396,
+    "circunscriptionID": 35
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 563,
+    "circunscriptionID": 35
+  },
+  {
+    "name": "AHORA CANARIAS-PARTIDO COMUNISTA DEL PUEBLO CANARIO",
+    "acronym": "AHORA CANARIAS-PCPC",
+    "votes": 883,
+    "circunscriptionID": 35
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 174770,
+    "circunscriptionID": 38
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 165590,
+    "circunscriptionID": 38
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 53632,
+    "circunscriptionID": 38
+  },
+  {
+    "name": "COALICI\u00d3N CANARIA",
+    "acronym": "CCa",
+    "votes": 82805,
+    "circunscriptionID": 38
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 6147,
+    "circunscriptionID": 38
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 1619,
+    "circunscriptionID": 38
+  },
+  {
+    "name": "NUEVA CANARIAS - BLOQUE CANARISTA",
+    "acronym": "NC-bc",
+    "votes": 3165,
+    "circunscriptionID": 38
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 766,
+    "circunscriptionID": 38
+  },
+  {
+    "name": "AHORA CANARIAS-PARTIDO COMUNISTA DEL PUEBLO CANARIO",
+    "acronym": "AHORA CANARIAS-PCPC",
+    "votes": 791,
+    "circunscriptionID": 38
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 147326,
+    "circunscriptionID": 39
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 116596,
+    "circunscriptionID": 39
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 49243,
+    "circunscriptionID": 39
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 29713,
+    "circunscriptionID": 39
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 2089,
+    "circunscriptionID": 39
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 790,
+    "circunscriptionID": 39
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 533,
+    "circunscriptionID": 39
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 598,
+    "circunscriptionID": 39
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 88299,
+    "circunscriptionID": 2
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 76322,
+    "circunscriptionID": 2
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 36750,
+    "circunscriptionID": 2
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 15834,
+    "circunscriptionID": 2
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 1261,
+    "circunscriptionID": 2
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 381,
+    "circunscriptionID": 2
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 185,
+    "circunscriptionID": 2
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 325,
+    "circunscriptionID": 2
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 114709,
+    "circunscriptionID": 13
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 100102,
+    "circunscriptionID": 13
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 46046,
+    "circunscriptionID": 13
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 17405,
+    "circunscriptionID": 13
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 1319,
+    "circunscriptionID": 13
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 447,
+    "circunscriptionID": 13
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 233,
+    "circunscriptionID": 13
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 365,
+    "circunscriptionID": 13
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 45255,
+    "circunscriptionID": 16
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 42528,
+    "circunscriptionID": 16
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 17700,
+    "circunscriptionID": 16
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 6325,
+    "circunscriptionID": 16
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 387,
+    "circunscriptionID": 16
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 207,
+    "circunscriptionID": 16
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 58,
+    "circunscriptionID": 16
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 111,
+    "circunscriptionID": 16
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 100,
+    "circunscriptionID": 16
+  },
+  {
+    "name": "ESCA\u00d1OS EN BLANCO PARA DEJAR ESCA\u00d1OS VAC\u00cdOS",
+    "acronym": "ESCA\u00d1OS EN BLANCO",
+    "votes": 168,
+    "circunscriptionID": 16
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 51195,
+    "circunscriptionID": 19
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 46479,
+    "circunscriptionID": 19
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 27126,
+    "circunscriptionID": 19
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 12907,
+    "circunscriptionID": 19
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 1039,
+    "circunscriptionID": 19
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 304,
+    "circunscriptionID": 19
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 162,
+    "circunscriptionID": 19
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 249,
+    "circunscriptionID": 19
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 191,
+    "circunscriptionID": 19
+  },
+  {
+    "name": "FALANGE ESPA\u00d1OLA DE LAS J.O.N.S.",
+    "acronym": "FE de las JONS",
+    "votes": 118,
+    "circunscriptionID": 19
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 146533,
+    "circunscriptionID": 45
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 126072,
+    "circunscriptionID": 45
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 76044,
+    "circunscriptionID": 45
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 31876,
+    "circunscriptionID": 45
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 2024,
+    "circunscriptionID": 45
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 985,
+    "circunscriptionID": 45
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 275,
+    "circunscriptionID": 45
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 499,
+    "circunscriptionID": 45
+  },
+  {
+    "name": "FALANGE ESPA\u00d1OLA DE LAS J.O.N.S.",
+    "acronym": "FE de las JONS",
+    "votes": 281,
+    "circunscriptionID": 45
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 42369,
+    "circunscriptionID": 5
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 26828,
+    "circunscriptionID": 5
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 15068,
+    "circunscriptionID": 5
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 5027,
+    "circunscriptionID": 5
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 275,
+    "circunscriptionID": 5
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 100,
+    "circunscriptionID": 5
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 42,
+    "circunscriptionID": 5
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 91,
+    "circunscriptionID": 5
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 85,
+    "circunscriptionID": 5
+  },
+  {
+    "name": "POR \u00c1VILA",
+    "acronym": "XAV",
+    "votes": 7362,
+    "circunscriptionID": 5
+  },
+  {
+    "name": "FALANGE ESPA\u00d1OLA DE LAS J.O.N.S.",
+    "acronym": "FE de las JONS",
+    "votes": 77,
+    "circunscriptionID": 5
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 82329,
+    "circunscriptionID": 9
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 69775,
+    "circunscriptionID": 9
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 25858,
+    "circunscriptionID": 9
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 17508,
+    "circunscriptionID": 9
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 943,
+    "circunscriptionID": 9
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 490,
+    "circunscriptionID": 9
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 154,
+    "circunscriptionID": 9
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 354,
+    "circunscriptionID": 9
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 349,
+    "circunscriptionID": 9
+  },
+  {
+    "name": "V\u00cdA BURGALESA",
+    "acronym": "VB",
+    "votes": 1774,
+    "circunscriptionID": 9
+  },
+  {
+    "name": "ESPA\u00d1A VACIADA-PARTIDO CASTELLANO-TIERRA COMUNERA",
+    "acronym": "EV-PCAS-TC",
+    "votes": 1184,
+    "circunscriptionID": 9
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 101605,
+    "circunscriptionID": 24
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 92578,
+    "circunscriptionID": 24
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 35451,
+    "circunscriptionID": 24
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 18577,
+    "circunscriptionID": 24
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 895,
+    "circunscriptionID": 24
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 541,
+    "circunscriptionID": 24
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 72,
+    "circunscriptionID": 24
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 155,
+    "circunscriptionID": 24
+  },
+  {
+    "name": "UNI\u00d3N DEL PUEBLO LEON\u00c9S",
+    "acronym": "U.P.L.",
+    "votes": 22675,
+    "circunscriptionID": 24
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 319,
+    "circunscriptionID": 24
+  },
+  {
+    "name": "ESPA\u00d1A VACIADA",
+    "acronym": "ESPA\u00d1A VACIADA",
+    "votes": 486,
+    "circunscriptionID": 24
+  },
+  {
+    "name": "PARTIDO REGIONALISTA DEL PA\u00cdS LEON\u00c9S",
+    "acronym": "PREPAL",
+    "votes": 309,
+    "circunscriptionID": 24
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 40709,
+    "circunscriptionID": 34
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 33613,
+    "circunscriptionID": 34
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 12504,
+    "circunscriptionID": 34
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 5877,
+    "circunscriptionID": 34
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 295,
+    "circunscriptionID": 34
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 139,
+    "circunscriptionID": 34
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 42,
+    "circunscriptionID": 34
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 99,
+    "circunscriptionID": 34
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 80,
+    "circunscriptionID": 34
+  },
+  {
+    "name": "CAMINANDO JUNTOS",
+    "acronym": "CJ",
+    "votes": 33,
+    "circunscriptionID": 34
+  },
+  {
+    "name": "FALANGE ESPA\u00d1OLA DE LAS J.O.N.S.",
+    "acronym": "FE de las JONS",
+    "votes": 71,
+    "circunscriptionID": 34
+  },
+  {
+    "name": "ESPA\u00d1A VACIADA",
+    "acronym": "ESPA\u00d1A VACIADA",
+    "votes": 384,
+    "circunscriptionID": 34
+  },
+  {
+    "name": "VAMOS PALENCIA",
+    "acronym": "VP",
+    "votes": 1917,
+    "circunscriptionID": 34
+  },
+  {
+    "name": "GRUPO INDEPENDIENTE PALENCIA TIERRA VIVA",
+    "acronym": "GITV",
+    "votes": 366,
+    "circunscriptionID": 34
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 93318,
+    "circunscriptionID": 37
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 60718,
+    "circunscriptionID": 37
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 29203,
+    "circunscriptionID": 37
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 11012,
+    "circunscriptionID": 37
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 631,
+    "circunscriptionID": 37
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 278,
+    "circunscriptionID": 37
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 80,
+    "circunscriptionID": 37
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 205,
+    "circunscriptionID": 37
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 325,
+    "circunscriptionID": 37
+  },
+  {
+    "name": "CAMINANDO JUNTOS",
+    "acronym": "CJ",
+    "votes": 140,
+    "circunscriptionID": 37
+  },
+  {
+    "name": "ESPA\u00d1A VACIADA",
+    "acronym": "ESPA\u00d1A VACIADA",
+    "votes": 1062,
+    "circunscriptionID": 37
+  },
+  {
+    "name": "PARTIDO REGIONALISTA DEL PA\u00cdS LEON\u00c9S",
+    "acronym": "PREPAL",
+    "votes": 489,
+    "circunscriptionID": 37
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 39894,
+    "circunscriptionID": 40
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 27113,
+    "circunscriptionID": 40
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 12510,
+    "circunscriptionID": 40
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 7137,
+    "circunscriptionID": 40
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 307,
+    "circunscriptionID": 40
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 183,
+    "circunscriptionID": 40
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 64,
+    "circunscriptionID": 40
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 136,
+    "circunscriptionID": 40
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 94,
+    "circunscriptionID": 40
+  },
+  {
+    "name": "CAMINANDO JUNTOS",
+    "acronym": "CJ",
+    "votes": 102,
+    "circunscriptionID": 40
+  },
+  {
+    "name": "TERCERA EDAD EN ACCI\u00d3N",
+    "acronym": "3e",
+    "votes": 198,
+    "circunscriptionID": 40
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 18895,
+    "circunscriptionID": 42
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 14966,
+    "circunscriptionID": 42
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 4978,
+    "circunscriptionID": 42
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 1711,
+    "circunscriptionID": 42
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 94,
+    "circunscriptionID": 42
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 68,
+    "circunscriptionID": 42
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 9,
+    "circunscriptionID": 42
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 23,
+    "circunscriptionID": 42
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 43,
+    "circunscriptionID": 42
+  },
+  {
+    "name": "SORIA \u00a1YA!",
+    "acronym": "SY",
+    "votes": 9697,
+    "circunscriptionID": 42
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 129170,
+    "circunscriptionID": 47
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 103596,
+    "circunscriptionID": 47
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 47948,
+    "circunscriptionID": 47
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 28049,
+    "circunscriptionID": 47
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 1105,
+    "circunscriptionID": 47
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 601,
+    "circunscriptionID": 47
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 159,
+    "circunscriptionID": 47
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 376,
+    "circunscriptionID": 47
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 335,
+    "circunscriptionID": 47
+  },
+  {
+    "name": "ESCA\u00d1OS EN BLANCO PARA DEJAR ESCA\u00d1OS VAC\u00cdOS",
+    "acronym": "ESCA\u00d1OS EN BLANCO",
+    "votes": 583,
+    "circunscriptionID": 47
+  },
+  {
+    "name": "FALANGE ESPA\u00d1OLA DE LAS J.O.N.S.",
+    "acronym": "FE de las JONS",
+    "votes": 164,
+    "circunscriptionID": 47
+  },
+  {
+    "name": "ESPA\u00d1A VACIADA",
+    "acronym": "ESPA\u00d1A VACIADA",
+    "votes": 1226,
+    "circunscriptionID": 47
+  },
+  {
+    "name": "UNIDAD CASTELLANA",
+    "acronym": "Ud.Ca",
+    "votes": 463,
+    "circunscriptionID": 47
+  },
+  {
+    "name": "FUERZA C\u00cdVICA",
+    "acronym": "FUERZA C\u00cdVICA",
+    "votes": 115,
+    "circunscriptionID": 47
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 46196,
+    "circunscriptionID": 49
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 33601,
+    "circunscriptionID": 49
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 13652,
+    "circunscriptionID": 49
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 5839,
+    "circunscriptionID": 49
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 313,
+    "circunscriptionID": 49
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 121,
+    "circunscriptionID": 49
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 50,
+    "circunscriptionID": 49
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 81,
+    "circunscriptionID": 49
+  },
+  {
+    "name": "UNI\u00d3N DEL PUEBLO LEON\u00c9S",
+    "acronym": "U.P.L.",
+    "votes": 526,
+    "circunscriptionID": 49
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 100,
+    "circunscriptionID": 49
+  },
+  {
+    "name": "ZAMORA S\u00cd",
+    "acronym": "Zsi",
+    "votes": 1843,
+    "circunscriptionID": 49
+  },
+  {
+    "name": "PARTIDO REGIONALISTA DEL PA\u00cdS LEON\u00c9S",
+    "acronym": "PREPAL",
+    "votes": 166,
+    "circunscriptionID": 49
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 367519,
+    "circunscriptionID": 8
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 952347,
+    "circunscriptionID": 8
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 201775,
+    "circunscriptionID": 8
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 405993,
+    "circunscriptionID": 8
+  },
+  {
+    "name": "ESQUERRA REPUBLICANA DE CATALUNYA",
+    "acronym": "ERC",
+    "votes": 328697,
+    "circunscriptionID": 8
+  },
+  {
+    "name": "JUNTS PER CATALUNYA - JUNTS",
+    "acronym": "JxCAT - JUNTS",
+    "votes": 258159,
+    "circunscriptionID": 8
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 28201,
+    "circunscriptionID": 8
+  },
+  {
+    "name": "CANDIDATURA D'UNITAT POPULAR-PER LA RUPTURA",
+    "acronym": "CUP-PR",
+    "votes": 67266,
+    "circunscriptionID": 8
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 6048,
+    "circunscriptionID": 8
+  },
+  {
+    "name": "PARTIT DEM\u00d2CRATA EUROPEU CATAL\u00c0-ESPAI CIU",
+    "acronym": "PDeCAT-E-CiU",
+    "votes": 24452,
+    "circunscriptionID": 8
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 3104,
+    "circunscriptionID": 8
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 2858,
+    "circunscriptionID": 8
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 31341,
+    "circunscriptionID": 17
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 93448,
+    "circunscriptionID": 17
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 22706,
+    "circunscriptionID": 17
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 35344,
+    "circunscriptionID": 17
+  },
+  {
+    "name": "ESQUERRA REPUBLICANA DE CATALUNYA",
+    "acronym": "ERC",
+    "votes": 47531,
+    "circunscriptionID": 17
+  },
+  {
+    "name": "JUNTS PER CATALUNYA - JUNTS",
+    "acronym": "JxCAT - JUNTS",
+    "votes": 63251,
+    "circunscriptionID": 17
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 3531,
+    "circunscriptionID": 17
+  },
+  {
+    "name": "CANDIDATURA D'UNITAT POPULAR-PER LA RUPTURA",
+    "acronym": "CUP-PR",
+    "votes": 18229,
+    "circunscriptionID": 17
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 570,
+    "circunscriptionID": 17
+  },
+  {
+    "name": "PARTIT DEM\u00d2CRATA EUROPEU CATAL\u00c0-ESPAI CIU",
+    "acronym": "PDeCAT-E-CiU",
+    "votes": 3388,
+    "circunscriptionID": 17
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 248,
+    "circunscriptionID": 17
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 420,
+    "circunscriptionID": 17
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 23699,
+    "circunscriptionID": 25
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 54414,
+    "circunscriptionID": 25
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 12560,
+    "circunscriptionID": 25
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 14561,
+    "circunscriptionID": 25
+  },
+  {
+    "name": "ESQUERRA REPUBLICANA DE CATALUNYA",
+    "acronym": "ERC",
+    "votes": 34331,
+    "circunscriptionID": 25
+  },
+  {
+    "name": "JUNTS PER CATALUNYA - JUNTS",
+    "acronym": "JxCAT - JUNTS",
+    "votes": 33228,
+    "circunscriptionID": 25
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 1352,
+    "circunscriptionID": 25
+  },
+  {
+    "name": "CANDIDATURA D'UNITAT POPULAR-PER LA RUPTURA",
+    "acronym": "CUP-PR",
+    "votes": 5449,
+    "circunscriptionID": 25
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 247,
+    "circunscriptionID": 25
+  },
+  {
+    "name": "PARTIT DEM\u00d2CRATA EUROPEU CATAL\u00c0-ESPAI CIU",
+    "acronym": "PDeCAT-E-CiU",
+    "votes": 1865,
+    "circunscriptionID": 25
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 120,
+    "circunscriptionID": 25
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 192,
+    "circunscriptionID": 25
+  },
+  {
+    "name": "ESCA\u00d1OS EN BLANCO PARA DEJAR ESCA\u00d1OS VAC\u00cdOS",
+    "acronym": "ESCA\u00d1OS EN BLANCO",
+    "votes": 462,
+    "circunscriptionID": 25
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 51061,
+    "circunscriptionID": 43
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 121126,
+    "circunscriptionID": 43
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 38039,
+    "circunscriptionID": 43
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 41719,
+    "circunscriptionID": 43
+  },
+  {
+    "name": "ESQUERRA REPUBLICANA DE CATALUNYA",
+    "acronym": "ERC",
+    "votes": 55461,
+    "circunscriptionID": 43
+  },
+  {
+    "name": "JUNTS PER CATALUNYA - JUNTS",
+    "acronym": "JxCAT - JUNTS",
+    "votes": 40791,
+    "circunscriptionID": 43
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 3797,
+    "circunscriptionID": 43
+  },
+  {
+    "name": "CANDIDATURA D'UNITAT POPULAR-PER LA RUPTURA",
+    "acronym": "CUP-PR",
+    "votes": 8700,
+    "circunscriptionID": 43
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 661,
+    "circunscriptionID": 43
+  },
+  {
+    "name": "PARTIT DEM\u00d2CRATA EUROPEU CATAL\u00c0-ESPAI CIU",
+    "acronym": "PDeCAT-E-CiU",
+    "votes": 2311,
+    "circunscriptionID": 43
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 267,
+    "circunscriptionID": 43
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 405,
+    "circunscriptionID": 43
+  },
+  {
+    "name": "ENTRE VE\u00cfNS CATALUNYA",
+    "acronym": "EVC",
+    "votes": 265,
+    "circunscriptionID": 43
+  },
+  {
+    "name": "UNIDOS POR LA SOLIDARIDAD INTERNACIONAL",
+    "acronym": "UNIDOS SI",
+    "votes": 253,
+    "circunscriptionID": 43
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 148068,
+    "circunscriptionID": 6
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 153473,
+    "circunscriptionID": 6
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 53492,
+    "circunscriptionID": 6
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 26778,
+    "circunscriptionID": 6
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 1395,
+    "circunscriptionID": 6
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 477,
+    "circunscriptionID": 6
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 204,
+    "circunscriptionID": 6
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 464,
+    "circunscriptionID": 6
+  },
+  {
+    "name": "BLOQUE EXTREME\u00d1O",
+    "acronym": "BQEX",
+    "votes": 3885,
+    "circunscriptionID": 6
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 89633,
+    "circunscriptionID": 10
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 91692,
+    "circunscriptionID": 10
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 32076,
+    "circunscriptionID": 10
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 16354,
+    "circunscriptionID": 10
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 814,
+    "circunscriptionID": 10
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 316,
+    "circunscriptionID": 10
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 111,
+    "circunscriptionID": 10
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 249,
+    "circunscriptionID": 10
+  },
+  {
+    "name": "BLOQUE EXTREME\u00d1O",
+    "acronym": "BQEX",
+    "votes": 1922,
+    "circunscriptionID": 10
+  },
+  {
+    "name": "SOMOS C\u00c1CERES",
+    "acronym": "Somos Cc",
+    "votes": 963,
+    "circunscriptionID": 10
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 292272,
+    "circunscriptionID": 15
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 190897,
+    "circunscriptionID": 15
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 34410,
+    "circunscriptionID": 15
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 82618,
+    "circunscriptionID": 15
+  },
+  {
+    "name": "BLOQUE NACIONALISTA GALEGO",
+    "acronym": "B.N.G.",
+    "votes": 67653,
+    "circunscriptionID": 15
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 3096,
+    "circunscriptionID": 15
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 1011,
+    "circunscriptionID": 15
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 548,
+    "circunscriptionID": 15
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 99769,
+    "circunscriptionID": 27
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 60163,
+    "circunscriptionID": 27
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 8643,
+    "circunscriptionID": 27
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 10287,
+    "circunscriptionID": 27
+  },
+  {
+    "name": "BLOQUE NACIONALISTA GALEGO",
+    "acronym": "B.N.G.",
+    "votes": 17197,
+    "circunscriptionID": 27
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 645,
+    "circunscriptionID": 27
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 233,
+    "circunscriptionID": 27
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 113,
+    "circunscriptionID": 27
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 149,
+    "circunscriptionID": 27
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 116,
+    "circunscriptionID": 27
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 93182,
+    "circunscriptionID": 32
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 56035,
+    "circunscriptionID": 32
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 9080,
+    "circunscriptionID": 32
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 10171,
+    "circunscriptionID": 32
+  },
+  {
+    "name": "BLOQUE NACIONALISTA GALEGO",
+    "acronym": "B.N.G.",
+    "votes": 15317,
+    "circunscriptionID": 32
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 700,
+    "circunscriptionID": 32
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 182,
+    "circunscriptionID": 32
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 97,
+    "circunscriptionID": 32
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 144,
+    "circunscriptionID": 32
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 101,
+    "circunscriptionID": 32
+  },
+  {
+    "name": "COALICI\u00d3N DE CENTRO DEMOCR\u00c1TICO",
+    "acronym": "CCD",
+    "votes": 153,
+    "circunscriptionID": 32
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 227658,
+    "circunscriptionID": 36
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 179737,
+    "circunscriptionID": 36
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 27539,
+    "circunscriptionID": 36
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 75615,
+    "circunscriptionID": 36
+  },
+  {
+    "name": "BLOQUE NACIONALISTA GALEGO",
+    "acronym": "B.N.G.",
+    "votes": 53828,
+    "circunscriptionID": 36
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 3003,
+    "circunscriptionID": 36
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 884,
+    "circunscriptionID": 36
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 510,
+    "circunscriptionID": 36
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 485,
+    "circunscriptionID": 36
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 1463183,
+    "circunscriptionID": 28
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 1004599,
+    "circunscriptionID": 28
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 506164,
+    "circunscriptionID": 28
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 557780,
+    "circunscriptionID": 28
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 21742,
+    "circunscriptionID": 28
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 7652,
+    "circunscriptionID": 28
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 3784,
+    "circunscriptionID": 28
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 6749,
+    "circunscriptionID": 28
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 3407,
+    "circunscriptionID": 28
+  },
+  {
+    "name": "FALANGE ESPA\u00d1OLA DE LAS J.O.N.S.",
+    "acronym": "FE de las JONS",
+    "votes": 1751,
+    "circunscriptionID": 28
+  },
+  {
+    "name": "PARTIDO HUMANISTA",
+    "acronym": "PH",
+    "votes": 2902,
+    "circunscriptionID": 28
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 57134,
+    "circunscriptionID": 31
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 93553,
+    "circunscriptionID": 31
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 19491,
+    "circunscriptionID": 31
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 43922,
+    "circunscriptionID": 31
+  },
+  {
+    "name": "EUSKAL HERRIA BILDU",
+    "acronym": "EH Bildu",
+    "votes": 58954,
+    "circunscriptionID": 31
+  },
+  {
+    "name": "UNION DEL PUEBLO NAVARRO",
+    "acronym": "U.P.N.",
+    "votes": 52188,
+    "circunscriptionID": 31
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 1530,
+    "circunscriptionID": 31
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 679,
+    "circunscriptionID": 31
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 252,
+    "circunscriptionID": 31
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 1002,
+    "circunscriptionID": 31
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 311,
+    "circunscriptionID": 31
+  },
+  {
+    "name": "GEROA BAI",
+    "acronym": "GBAI",
+    "votes": 9938,
+    "circunscriptionID": 31
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 30212,
+    "circunscriptionID": 1
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 46775,
+    "circunscriptionID": 1
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 6573,
+    "circunscriptionID": 1
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 21561,
+    "circunscriptionID": 1
+  },
+  {
+    "name": "EUSKAL HERRIA BILDU",
+    "acronym": "EH Bildu",
+    "votes": 32987,
+    "circunscriptionID": 1
+  },
+  {
+    "name": "EUZKO ALDERDI JELTZALEA-PARTIDO NACIONALISTA VASCO",
+    "acronym": "EAJ-PNV",
+    "votes": 28075,
+    "circunscriptionID": 1
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 773,
+    "circunscriptionID": 1
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 354,
+    "circunscriptionID": 1
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 185,
+    "circunscriptionID": 1
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 106,
+    "circunscriptionID": 1
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 165,
+    "circunscriptionID": 1
+  },
+  {
+    "name": "ESCA\u00d1OS EN BLANCO PARA DEJAR ESCA\u00d1OS VAC\u00cdOS",
+    "acronym": "ESCA\u00d1OS EN BLANCO",
+    "votes": 619,
+    "circunscriptionID": 1
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 32721,
+    "circunscriptionID": 20
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 87709,
+    "circunscriptionID": 20
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 7877,
+    "circunscriptionID": 20
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 40081,
+    "circunscriptionID": 20
+  },
+  {
+    "name": "EUSKAL HERRIA BILDU",
+    "acronym": "EH Bildu",
+    "votes": 117321,
+    "circunscriptionID": 20
+  },
+  {
+    "name": "EUZKO ALDERDI JELTZALEA-PARTIDO NACIONALISTA VASCO",
+    "acronym": "EAJ-PNV",
+    "votes": 85026,
+    "circunscriptionID": 20
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 1568,
+    "circunscriptionID": 20
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 530,
+    "circunscriptionID": 20
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 442,
+    "circunscriptionID": 20
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 149,
+    "circunscriptionID": 20
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 259,
+    "circunscriptionID": 20
+  },
+  {
+    "name": "ESCA\u00d1OS EN BLANCO PARA DEJAR ESCA\u00d1OS VAC\u00cdOS",
+    "acronym": "ESCA\u00d1OS EN BLANCO",
+    "votes": 933,
+    "circunscriptionID": 20
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 70533,
+    "circunscriptionID": 48
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 157448,
+    "circunscriptionID": 48
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 16069,
+    "circunscriptionID": 48
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 66592,
+    "circunscriptionID": 48
+  },
+  {
+    "name": "EUSKAL HERRIA BILDU",
+    "acronym": "EH Bildu",
+    "votes": 125867,
+    "circunscriptionID": 48
+  },
+  {
+    "name": "EUZKO ALDERDI JELTZALEA-PARTIDO NACIONALISTA VASCO",
+    "acronym": "EAJ-PNV",
+    "votes": 164188,
+    "circunscriptionID": 48
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 2729,
+    "circunscriptionID": 48
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 929,
+    "circunscriptionID": 48
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 525,
+    "circunscriptionID": 48
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 804,
+    "circunscriptionID": 48
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 618,
+    "circunscriptionID": 48
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 307972,
+    "circunscriptionID": 30
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 189210,
+    "circunscriptionID": 30
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 163124,
+    "circunscriptionID": 30
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 71578,
+    "circunscriptionID": 30
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 5063,
+    "circunscriptionID": 30
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 1201,
+    "circunscriptionID": 30
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 546,
+    "circunscriptionID": 30
+  },
+  {
+    "name": "ESCA\u00d1OS EN BLANCO PARA DEJAR ESCA\u00d1OS VAC\u00cdOS",
+    "acronym": "ESCA\u00d1OS EN BLANCO",
+    "votes": 1377,
+    "circunscriptionID": 30
+  },
+  {
+    "name": "CAMINANDO JUNTOS",
+    "acronym": "CJ",
+    "votes": 453,
+    "circunscriptionID": 30
+  },
+  {
+    "name": "FALANGE ESPA\u00d1OLA DE LAS J.O.N.S.",
+    "acronym": "FE de las JONS",
+    "votes": 376,
+    "circunscriptionID": 30
+  },
+  {
+    "name": "POR MI REGI\u00d3N",
+    "acronym": "POR MI REGI\u00d3N",
+    "votes": 1698,
+    "circunscriptionID": 30
+  },
+  {
+    "name": "REFER\u00c9NDUM SISTEMA DINERO",
+    "acronym": "+RDS+",
+    "votes": 165,
+    "circunscriptionID": 30
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 79715,
+    "circunscriptionID": 26
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 62322,
+    "circunscriptionID": 26
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 17056,
+    "circunscriptionID": 26
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 11470,
+    "circunscriptionID": 26
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 723,
+    "circunscriptionID": 26
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 295,
+    "circunscriptionID": 26
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 124,
+    "circunscriptionID": 26
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 232,
+    "circunscriptionID": 26
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPA\u00d1A",
+    "acronym": "PCTE",
+    "votes": 224,
+    "circunscriptionID": 26
+  },
+  {
+    "name": "ESCA\u00d1OS EN BLANCO PARA DEJAR ESCA\u00d1OS VAC\u00cdOS",
+    "acronym": "ESCA\u00d1OS EN BLANCO",
+    "votes": 608,
+    "circunscriptionID": 26
+  },
+  {
+    "name": "TERCERA EDAD EN ACCI\u00d3N",
+    "acronym": "3e",
+    "votes": 286,
+    "circunscriptionID": 26
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 330293,
+    "circunscriptionID": 3
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 287737,
+    "circunscriptionID": 3
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 146133,
+    "circunscriptionID": 3
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 115787,
+    "circunscriptionID": 3
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 7335,
+    "circunscriptionID": 3
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 1724,
+    "circunscriptionID": 3
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 1135,
+    "circunscriptionID": 3
+  },
+  {
+    "name": "CAMINANDO JUNTOS",
+    "acronym": "CJ",
+    "votes": 1027,
+    "circunscriptionID": 3
+  },
+  {
+    "name": "PARTIDO AUT\u00d3NOMOS",
+    "acronym": "PARTIDO AUT\u00d3NOMOS",
+    "votes": 1446,
+    "circunscriptionID": 3
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 108302,
+    "circunscriptionID": 12
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 100530,
+    "circunscriptionID": 12
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 48913,
+    "circunscriptionID": 12
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 44187,
+    "circunscriptionID": 12
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 1968,
+    "circunscriptionID": 12
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 721,
+    "circunscriptionID": 12
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 493,
+    "circunscriptionID": 12
+  },
+  {
+    "name": "FALANGE ESPA\u00d1OLA DE LAS J.O.N.S.",
+    "acronym": "FE de las JONS",
+    "votes": 161,
+    "circunscriptionID": 12
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 483469,
+    "circunscriptionID": 46
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 461353,
+    "circunscriptionID": 46
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 218657,
+    "circunscriptionID": 46
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 242839,
+    "circunscriptionID": 46
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 10334,
+    "circunscriptionID": 46
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 2919,
+    "circunscriptionID": 46
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 1773,
+    "circunscriptionID": 46
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 1778,
+    "circunscriptionID": 46
+  },
+  {
+    "name": "CAMINANDO JUNTOS",
+    "acronym": "CJ",
+    "votes": 1056,
+    "circunscriptionID": 46
+  },
+  {
+    "name": "FALANGE ESPA\u00d1OLA DE LAS J.O.N.S.",
+    "acronym": "FE de las JONS",
+    "votes": 731,
+    "circunscriptionID": 46
+  },
+  {
+    "name": "ESTAT VALENCI\u00c0 DEL BENESTAR",
+    "acronym": "EVB",
+    "votes": 1442,
+    "circunscriptionID": 46
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 12918,
+    "circunscriptionID": 51
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 11332,
+    "circunscriptionID": 51
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 7752,
+    "circunscriptionID": 51
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 821,
+    "circunscriptionID": 51
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO",
+    "votes": 53,
+    "circunscriptionID": 51
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 33,
+    "circunscriptionID": 51
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 31,
+    "circunscriptionID": 51
+  },
+  {
+    "name": "LIBRES",
+    "acronym": "LB",
+    "votes": 53,
+    "circunscriptionID": 51
+  },
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP",
+    "votes": 13446,
+    "circunscriptionID": 52
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPA\u00d1OL",
+    "acronym": "PSOE",
+    "votes": 6943,
+    "circunscriptionID": 52
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX",
+    "votes": 4359,
+    "circunscriptionID": 52
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR",
+    "votes": 827,
+    "circunscriptionID": 52
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA",
+    "votes": 160,
+    "circunscriptionID": 52
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO",
+    "votes": 23,
+    "circunscriptionID": 52
+  },
+  {
+    "name": "POR UN MUNDO M\u00c1S JUSTO",
+    "acronym": "PUM+J",
+    "votes": 40,
+    "circunscriptionID": 52
+  },
+  {
+    "name": "COALICI\u00d3N POR MELILLA",
+    "acronym": "CpM",
+    "votes": 1298,
+    "circunscriptionID": 52
+  }
+]

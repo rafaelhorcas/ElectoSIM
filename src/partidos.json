@@ -1,0 +1,238 @@
+[
+  {
+    "name": "PARTIDO POPULAR",
+    "acronym": "PP"
+  },
+  {
+    "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+    "acronym": "PSOE"
+  },
+  {
+    "name": "VOX",
+    "acronym": "VOX"
+  },
+  {
+    "name": "SUMAR",
+    "acronym": "SUMAR"
+  },
+  {
+    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+    "acronym": "PACMA"
+  },
+  {
+    "name": "FRENTE OBRERO",
+    "acronym": "FO"
+  },
+  {
+    "name": "RECORTES CERO",
+    "acronym": "RECORTES CERO"
+  },
+  {
+    "name": "POR UN MUNDO MÁS JUSTO",
+    "acronym": "PUM+J"
+  },
+  {
+    "name": "ALMERIENSES - REGIONALISTAS PRO ALMERÍA",
+    "acronym": "ALM"
+  },
+  {
+    "name": "LIBRES",
+    "acronym": "LB"
+  },
+  {
+    "name": "ADELANTE ANDALUCÍA",
+    "acronym": "ADELANTE ANDALUCÍA"
+  },
+  {
+    "name": "CAMINANDO JUNTOS",
+    "acronym": "CJ"
+  },
+  {
+    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+    "acronym": "PCTE"
+  },
+  {
+    "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
+    "acronym": "ESCAÑOS EN BLANCO"
+  },
+  {
+    "name": "JUNTOS POR GRANADA",
+    "acronym": "JxG"
+  },
+  {
+    "name": "POR HUELVA",
+    "acronym": "XH"
+  },
+  {
+    "name": "JAÉN MERECE MÁS",
+    "acronym": "JM+"
+  },
+  {
+    "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
+    "acronym": "FE de las JONS"
+  },
+  {
+    "name": "ARAGÓN EXISTE - COALICIÓN EXISTE",
+    "acronym": "EXISTE"
+  },
+  {
+    "name": "PARTIDO ARAGONÉS",
+    "acronym": "PAR"
+  },
+  {
+    "name": "FEDERACIÓN DE LOS INDEPENDIENTES DE ARAGÓN",
+    "acronym": "F.I.A."
+  },
+  {
+    "name": "ASTURIAS EXISTE-ESPAÑA VACIADA",
+    "acronym": "ASTURIAS EXISTE EV"
+  },
+  {
+    "name": "PARTIDO UNIONISTA ESTADO DE ESPAÑA",
+    "acronym": "PUEDE"
+  },
+  {
+    "name": "COALICIÓN CANARIA",
+    "acronym": "CCa"
+  },
+  {
+    "name": "NUEVA CANARIAS - BLOQUE CANARISTA",
+    "acronym": "NC-bc"
+  },
+  {
+    "name": "AHORA CANARIAS-PARTIDO COMUNISTA DEL PUEBLO CANARIO",
+    "acronym": "AHORA CANARIAS-PCPC"
+  },
+  {
+    "name": "POR ÁVILA",
+    "acronym": "XAV"
+  },
+  {
+    "name": "VÍA BURGALESA",
+    "acronym": "VB"
+  },
+  {
+    "name": "ESPAÑA VACIADA-PARTIDO CASTELLANO-TIERRA COMUNERA",
+    "acronym": "EV-PCAS-TC"
+  },
+  {
+    "name": "UNIÓN DEL PUEBLO LEONÉS",
+    "acronym": "U.P.L."
+  },
+  {
+    "name": "ESPAÑA VACIADA",
+    "acronym": "ESPAÑA VACIADA"
+  },
+  {
+    "name": "PARTIDO REGIONALISTA DEL PAÍS LEONÉS",
+    "acronym": "PREPAL"
+  },
+  {
+    "name": "VAMOS PALENCIA",
+    "acronym": "VP"
+  },
+  {
+    "name": "GRUPO INDEPENDIENTE PALENCIA TIERRA VIVA",
+    "acronym": "GITV"
+  },
+  {
+    "name": "TERCERA EDAD EN ACCIÓN",
+    "acronym": "3e"
+  },
+  {
+    "name": "SORIA ¡YA!",
+    "acronym": "SY"
+  },
+  {
+    "name": "UNIDAD CASTELLANA",
+    "acronym": "Ud.Ca"
+  },
+  {
+    "name": "FUERZA CÍVICA",
+    "acronym": "FUERZA CÍVICA"
+  },
+  {
+    "name": "ZAMORA SÍ",
+    "acronym": "Zsi"
+  },
+  {
+    "name": "ESQUERRA REPUBLICANA DE CATALUNYA",
+    "acronym": "ERC"
+  },
+  {
+    "name": "JUNTS PER CATALUNYA - JUNTS",
+    "acronym": "JxCAT - JUNTS"
+  },
+  {
+    "name": "CANDIDATURA D'UNITAT POPULAR-PER LA RUPTURA",
+    "acronym": "CUP-PR"
+  },
+  {
+    "name": "PARTIT DEMÒCRATA EUROPEU CATALÀ-ESPAI CIU",
+    "acronym": "PDeCAT-E-CiU"
+  },
+  {
+    "name": "ENTRE VEÏNS CATALUNYA",
+    "acronym": "EVC"
+  },
+  {
+    "name": "UNIDOS POR LA SOLIDARIDAD INTERNACIONAL",
+    "acronym": "UNIDOS SI"
+  },
+  {
+    "name": "BLOQUE EXTREMEÑO",
+    "acronym": "BQEX"
+  },
+  {
+    "name": "SOMOS CÁCERES",
+    "acronym": "Somos Cc"
+  },
+  {
+    "name": "BLOQUE NACIONALISTA GALEGO",
+    "acronym": "B.N.G."
+  },
+  {
+    "name": "COALICIÓN DE CENTRO DEMOCRÁTICO",
+    "acronym": "CCD"
+  },
+  {
+    "name": "PARTIDO HUMANISTA",
+    "acronym": "PH"
+  },
+  {
+    "name": "EUSKAL HERRIA BILDU",
+    "acronym": "EH Bildu"
+  },
+  {
+    "name": "UNION DEL PUEBLO NAVARRO",
+    "acronym": "U.P.N."
+  },
+  {
+    "name": "GEROA BAI",
+    "acronym": "GBAI"
+  },
+  {
+    "name": "EUZKO ALDERDI JELTZALEA-PARTIDO NACIONALISTA VASCO",
+    "acronym": "EAJ-PNV"
+  },
+  {
+    "name": "POR MI REGIÓN",
+    "acronym": "POR MI REGIÓN"
+  },
+  {
+    "name": "REFERÉNDUM SISTEMA DINERO",
+    "acronym": "+RDS+"
+  },
+  {
+    "name": "PARTIDO AUTÓNOMOS",
+    "acronym": "PARTIDO AUTÓNOMOS"
+  },
+  {
+    "name": "ESTAT VALENCIÀ DEL BENESTAR",
+    "acronym": "EVB"
+  },
+  {
+    "name": "COALICIÓN POR MELILLA",
+    "acronym": "CpM"
+  }
+]
