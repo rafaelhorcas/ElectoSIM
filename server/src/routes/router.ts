@@ -10,6 +10,7 @@ const router = Router();
 // Elections routes
 router.get('/elections', electionController.getAllElections);
 router.get('/elections/:id', electionController.getElectionById);
+router.get('/elections/type', electionController.getElectionsByType);
 
 // Circunscriptions routes
 router.get('/circunscriptions', circunscriptionController.getAllCircunscriptions);

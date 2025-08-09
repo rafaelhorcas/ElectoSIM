@@ -27,3 +27,15 @@ export const getElectionById = async (req: Request, res: Response) => {
   }
   return;
 };
+
+export const getElectionsByType = async (req: Request, res: Response) => {
+  const { type } = req.query;
+  try {
+    const elections = await Election.findAll({ where: { type } });
+    res.json(elections);
+  } catch (error) {
+    console.error('Error al obtener las elecciones por tipo:', error);
+    res.status(500).json({ error: 'Error al obtener las elecciones por tipo' });
+  }
+  return;
+};

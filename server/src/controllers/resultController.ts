@@ -53,7 +53,6 @@ export const getResultSimulatuionDhont = async (req: Request, res: Response) => 
     }));
     const totalSeats = 4;
     const dhondtResults = dhondt(votesData, totalSeats);
-    //const sainteLagueResults = sainteLague(votesData, totalSeats);
 
     res.json(dhondtResults);
   } catch (error) {
